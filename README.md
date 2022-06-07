@@ -1,6 +1,9 @@
 HNC Computing Student.
+
 I mainly program in Python but also know C#, HTML, and CSS.
+
 Trying to build up a portfolio of projects.
+
 More projects will be uploaded when they are done.
 
 <!---
