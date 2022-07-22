@@ -1,4 +1,4 @@
-HNC Computing Student.
+HNC Computing Graduate.
 
 I mainly program in Python but also know C#, HTML, and CSS.
 
